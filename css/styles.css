@@ -1,0 +1,104 @@
+body{
+    font-family: Poppins, sans-serif;
+
+}
+
+head{
+    font-family: Poppins, sans-serif;
+}
+
+
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+
+.article{
+    display: inline-block;
+    border: none;
+    padding: 1em;
+    text-align: center;
+    margin: 1em;
+
+}
+
+
+.article .picture{
+    border-radius: 50%;
+
+}
+
+.article .connections{
+    font-size: 0.7em;
+    margin: 1em 0 1em 0;
+    color: #777;
+
+}
+
+
+
+.card {
+
+    margin: 2em;
+    padding: 2em;
+    display: inline-block;
+    max-inline-size: inherit;
+    border-color: black;
+
+}
+
+.card:hover {
+    box-shadow: 5px 5px 5px #CCC;
+}
+
+
+.btn-primary{
+
+    border-radius: 5%;
+    background-color: black;
+    border-color:black;
+    color: white
+}
+
+.btn-primary:hover{
+
+    background-color: crimson;
+    border-color: crimson;
+
+}
+
+.btn-primary:focus{
+
+    background-color: crimson;
+    border-color: crimson;
+
+}
+
+
+.row .btn-primary{
+
+    border-radius: 5%;
+    background-color: black;
+    border-color:black;
+    color: white
+}
+
+.row .btn-primary:hover{
+
+   background-color: crimson;
+   border-color: crimson;
+}
+.row .btn-primary:focus{
+
+    background-color: crimson;
+    border-color: crimson;
+ }
+
+.row .card{
+
+    border-color: black;
+
+}
+
+
